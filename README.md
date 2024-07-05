@@ -7,5 +7,5 @@ Project is created with:
 
 - React
 - HTML5
-- CSS3
+- Tailwind.css
 - JavaScript 
