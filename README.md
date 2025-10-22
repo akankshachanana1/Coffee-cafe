@@ -1,5 +1,5 @@
 # Coffee-cafe
-Check it out 
+Try it out:
 [Coffee-cafe](https://coffee-cafe-eight.vercel.app/)
 
 ### Technologies
@@ -9,3 +9,5 @@ Project is created with:
 - HTML5
 - Tailwind.css
 - JavaScript 
+
+
