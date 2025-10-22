@@ -1,5 +1,5 @@
 # Coffee-cafe
-Try it out:
+Checkg it out:
 [Coffee-cafe](https://coffee-cafe-eight.vercel.app/)
 
 ### Technologies
